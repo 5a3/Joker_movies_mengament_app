@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177892531420",
+    "project_id": "joker-ef0ec",
+    "storage_bucket": "joker-ef0ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177892531420:android:f1cdc485b917935aff6819",
+        "android_client_info": {
+          "package_name": "com.example.joker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWz9VnhgyvqoF9hhGU3fPJnyTQbaaGnGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
