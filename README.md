@@ -1,6 +1,7 @@
 # joker
 
-A new Flutter project.
+Joker Movies Management App
+A Flutter-based app for movie management, allowing admins to add movies with titles and images. It offers a smooth user experience and uses Firebase for secure data storage. Features include an admin interface for managing movies and responsive design for various devices. Easily set up by integrating Firebase credentials
 
 ## Getting Started
 
