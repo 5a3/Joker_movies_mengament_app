@@ -8,7 +8,7 @@ A Flutter-based app for movie management, allowing admins to add movies with tit
     <h3 style='text-algin='center'>---Drawer---<h3/>
 <img src="https://github.com/user-attachments/assets/6120938c-f5c5-4ae7-b260-c1596ab51f21" alt="image profile"  style="width:25%; height:25%;">
 
-  <h3 style='text-algin='center'>---Drawer---<h3/>
+  <h3 style='text-algin='center'>---About Dev---<h3/>
 <img src="https://github.com/user-attachments/assets/fd335bab-9dd8-466b-8c10-43f681edcd92" alt="image profile"  style="width:25%; height:25%;">
 
 
