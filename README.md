@@ -3,8 +3,9 @@
 Joker Movies Management App
 A Flutter-based app for movie management, allowing admins to add movies with titles and images. It offers a smooth user experience and uses Firebase for secure data storage. Features include an admin interface for managing movies and responsive design for various devices. Easily set up by integrating Firebase credentials
 
-<p style='text-algin='center'>---home_page---<p/>
+<p style='text-algin='center'>---Home_Page---<p/>
 <img src="https://github.com/user-attachments/assets/b68332b5-ede8-405c-b2f5-3b45eb5c340e" alt="image profile"  style="width:25%; height:25%;">
+  <p style='text-algin='center'>---Drawer---<p/>
 <img src="https://github.com/user-attachments/assets/6120938c-f5c5-4ae7-b260-c1596ab51f21" alt="image profile"  style="width:25%; height:25%;">
 
 
